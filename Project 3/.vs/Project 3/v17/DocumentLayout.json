@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Iva_Kvakhajelidze_CSharp\\Project 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72C00F25-0F93-4FFD-9EA6-19EF1002F4EF}|Project 3\\Project 3.csproj|C:\\Users\\Acer\\Desktop\\Iva_Kvakhajelidze_CSharp\\Project 3\\project 3\\stockmarketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C00F25-0F93-4FFD-9EA6-19EF1002F4EF}|Project 3\\Project 3.csproj|solutionrelative:project 3\\stockmarketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C00F25-0F93-4FFD-9EA6-19EF1002F4EF}|Project 3\\Project 3.csproj|c:\\users\\acer\\desktop\\iva_kvakhajelidze_csharp\\project 3\\project 3\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C00F25-0F93-4FFD-9EA6-19EF1002F4EF}|Project 3\\Project 3.csproj|solutionrelative:project 3\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C00F25-0F93-4FFD-9EA6-19EF1002F4EF}|Project 3\\Project 3.csproj|C:\\Users\\Acer\\Desktop\\Iva_Kvakhajelidze_CSharp\\Project 3\\project 3\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C00F25-0F93-4FFD-9EA6-19EF1002F4EF}|Project 3\\Project 3.csproj|solutionrelative:project 3\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Iva_Kvakhajelidze_CSharp\\Project 3\\Project 3\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Project 3\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Iva_Kvakhajelidze_CSharp\\Project 3\\Project 3\\Services\\GameService.cs",
+              "RelativeToolTip": "Project 3\\Services\\GameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:08:33.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockMarketForm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Iva_Kvakhajelidze_CSharp\\Project 3\\Project 3\\StockMarketForm.cs",
+              "RelativeDocumentMoniker": "Project 3\\StockMarketForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Iva_Kvakhajelidze_CSharp\\Project 3\\Project 3\\StockMarketForm.cs*",
+              "RelativeToolTip": "Project 3\\StockMarketForm.cs*",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAgwHMBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:59:51.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Iva_Kvakhajelidze_CSharp\\Project 3\\Project 3\\Interfaces\\IGameService.cs",
+              "RelativeDocumentMoniker": "Project 3\\Interfaces\\IGameService.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Iva_Kvakhajelidze_CSharp\\Project 3\\Project 3\\Interfaces\\IGameService.cs",
+              "RelativeToolTip": "Project 3\\Interfaces\\IGameService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA8wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:08:43.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
