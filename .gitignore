@@ -404,3 +404,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignore Visual Studio build output folders
+bin/
+obj/
+.vs/
+
+# Ignore system files/folders
+AppData/
+.DS_Store
+Thumbs.db
