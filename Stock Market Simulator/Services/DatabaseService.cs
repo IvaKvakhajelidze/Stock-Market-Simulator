@@ -18,7 +18,7 @@ namespace Project_3.Services
         public List<Stock> GetAllStocks()
         {
             List<Stock> stocks = new List<Stock>();
-            using (SqlConnection connection = new SqlConnection(_connectionString))
+            using (SqlConnection connection = new SqlConnection(_connectionString)) 
             {
                 connection.Open();
                 SqlCommand command = new SqlCommand("SELECT * FROM [StockSimulator].[dbo].[Stock]", connection);
