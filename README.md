@@ -27,8 +27,10 @@ A realistic virtual stock market game built with C# and Windows Forms. Designed 
 
 
 # LEARNING OBJECTIVES
-Using Entity Framework in WindowsForms
-Simulating stock markets in a desktop app
+  Using Entity Framework in WindowsForms
+  
+  Simulating stock markets in a desktop app
+  
   Displaying dynamic data with charts
   Handling user portfolios and transactions
   Working with .bak file database setup
