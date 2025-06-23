@@ -13,12 +13,12 @@ A realistic virtual stock market game built with C# and Windows Forms. Designed 
 
 
 # USED TECH
-  > C# with .NET Framework
-  > Windows Forms
-  > MSSQL (LocalDB) – for user & market data
-  > Entity Framework
-  > System.Windows.Forms.DataVisualization.Charting – for graphs
-  > .bak file for database restoration
+  -- C# with .NET Framework
+  -- Windows Forms
+  -- MSSQL (LocalDB) – for user & market data
+  -- Entity Framework
+  -- System.Windows.Forms.DataVisualization.Charting – for graphs
+  -- .bak file for database restoration
 
 
 # SETUP INSTRUCTIONS
@@ -27,26 +27,28 @@ A realistic virtual stock market game built with C# and Windows Forms. Designed 
 
 
 # LEARNING OBJECTIVES
-  > Using Entity Framework in WindowsForms
+  - Using Entity Framework in WindowsForms
   
-  > Simulating stock markets in a desktop app
+  - Simulating stock markets in a desktop app
   
-  > Displaying dynamic data with charts
+  - Displaying dynamic data with charts
   
-  Handling user portfolios and transactions
+  - Handling user portfolios and transactions
   
-  Working with .bak file database setup
+  - Working with .bak file database setup
 
 
 # CONTRIBUTING
-  > Pull requests are welcome! Open an issue first for major feature proposals.
+Pull requests are welcome! Open an issue first for major feature proposals.
 
 
 # LICENSE
-  > Licensed under the MIT License.
+Licensed under the MIT License.
 
 
 # 👤 AUTHOR
-  > Iva Kvakhajelidze
-  > GitHub: @IvaKvakhajelidze
-  > Email: iva02062009@gmail.com
+  -- Iva Kvakhajelidze
+    
+  -- GitHub: @IvaKvakhajelidze
+    
+  -- Email: iva02062009@gmail.com
