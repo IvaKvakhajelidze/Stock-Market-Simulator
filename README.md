@@ -13,12 +13,17 @@ A realistic virtual stock market game built with C# and Windows Forms. Designed 
 
 
 # USED TECH
-  -- C# with .NET Framework
-  -- Windows Forms
-  -- MSSQL (LocalDB) – for user & market data
-  -- Entity Framework
-  -- System.Windows.Forms.DataVisualization.Charting – for graphs
-  -- .bak file for database restoration
+  - C# with .NET Framework
+    
+  - Windows Forms
+    
+  - MSSQL (LocalDB) – for user & market data
+    
+  - Entity Framework
+    
+  - System.Windows.Forms.DataVisualization.Charting – for graphs
+    
+  - .bak file for database restoration
 
 
 # SETUP INSTRUCTIONS
